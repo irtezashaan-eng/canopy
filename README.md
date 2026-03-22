@@ -7,7 +7,7 @@ _Official golang implementation of the Canopy Network Protocol_
 [![Go Version](https://img.shields.io/badge/golang-v1.21-white.svg)](https://golang.org)
 [![Next.js Version](https://img.shields.io/badge/next%20js-v14.2.3-white.svg)](https://nextjs.org/)
 
-H
+
 # Overview
 
 [![License](https://img.shields.io/badge/License-MIT-white.svg)](https://opensource.org/licenses/MIT)
